@@ -1,0 +1,16 @@
+﻿Formula,ExactMass,Mode,Label,RT_known,KeggID,Name,RT.avg,Height.avg,PZAvsAll.Quality,PZAvsAll.Notes,RT_MyStds,RT_POAvsPZA,POAvsPZA_Mode,POAvsPZA_Quality,RT_VS_ID1,VS_Mode,RT_TH_ID1,TH_Mode,RT_Gates_ID1
+C5H6O5,146.0215,NEG,C00026 2-Oxoglutarate,64.5,C00026,2-Oxoglutarate,1.09,30139,6,Integrating clearer peak on left based on standard RTs,1.075,1.05,NEG,6,1.07,NEG,1.1,NEG,1.1
+C7H10O7,206.0427,NEG,C02225 2-Methylcitrate,65.46,C02225,2-Methylcitrate,1.11,14630,6,Actual methylcitrate is probably the earlier peak that doesn't change between conditions. Has isomer slightly later that changes,1.091,12.4,HILIC,5,1.12,NEG,1.45,NEG,NA
+C4H6O4,118.0266,NEG,C00042 Succinate,66.48,C00042,Succinate,1.11,18551,6,,1.108,1.06,NEG,6,1.1,NEG,1.11,NEG,1.11
+C6H12O4,148.0736,NEG,C00522 R-Pantoate,71.34,C00522,(R)-Pantoate,1.28,13875,6,Low peaks in NAM samples are patchy,1.189,1.25,NEG,6,1.16,NEG,,,10.25
+C9H17NO5,219.1107,NEG,C00864 Pantothenate,79.08,C00864,Pantothenate,1.31,1253,6,low flickery peak but right RT. 75 ppm checked,1.318,1.29,NEG,6,NA,,1.3,NEG NEG POS,1.3
+C3H4O2,72.0211,NEG,C00546 Methylglyoxal,145.8,C00546,Methylglyoxal,2.25,41978,6,,NA,2.14,NEG,3,2.43,POS,2.31,NEG,2.31
+C10H12N5O6P,329.0525,NEG,C00575 3p-5p-Cyclic AMP,351.6,C00575,"3',5'-Cyclic AMP",5.29,11402,6,,NA,NA,,NA,5.86,POS,5.6,NEG,NA
+C11H22N2O4S,278.13,NEG,C00831 Pantetheine,58.44,C00831,Pantetheine,1.38,6162,5,patchy. Same in 75 ppm,0.974,1.28,NEG,4,NA,,,,NA
+C6H10O4,146.0579,NEG,C00966 2-Dehydropantoate,64.2,C00966,2-Dehydropantoate,1.36,4915,5,Patchy but RT is right. Still patchy at 75 ppm,1.07,1.05,NEG,5,NA,,,,NA
+C6H8O7,192.027,NEG,C00158 Citrate,68.4,C00158,Citrate,1.15,2317275,5,left peak. Also see smaller peaks farther along,NA,1.11,NEG,5,1.14,NEG,1.16,NEG UNK,1.16
+C4H4O4,116.011,NEG,C00122 Fumarate,69.6,C00122,Fumarate,1.09,3309,5,integrating two peaks from 1 - 1.2,NA,1.24,NEG,5,1.16,NEG,1.08,NEG,1.08
+C5H10O4,134.0579,NEG,C01801 Deoxyribose,76.8,C01801,Deoxyribose,1.29,18327,5,only one peak but two species. No other peak at 75 ppm,NA,NA,,NA,1.28,NEG,1.85,NEG,NA
+C10H15N5O10P2,427.0294,NEG,C00008 ADP,955.8,C00008,ADP,5.29,7358,5,only one peak not the expected RT. Same in 75 ppm,NA,NA,,NA,15.93,NEG,13.6,NEG,NA
+C6H6O6,174.0164,NEG,C00417 cis-Aconitate,59.76,C00417,cis-Aconitate,0.98,7784,4,3 peaks close together between 0.9 and 1.4,0.996,0.94,NEG,6,0.93,NEG,0.81,NEG,0.81
+C7H5NO4,167.0219,NEG,C03722 Quinolinate,105.78,C03722,Quinolinate,1.39,3026,4,"Something at 1.3 and 2.4, but nothing at 1.8. Went with the earlier one because it changes btw conditions",1.763,2.23,HILIC,3,NA,,1.55,NEG,NA

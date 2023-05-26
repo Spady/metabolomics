@@ -1,0 +1,17 @@
+﻿expcond,nullcond,compareID,category
+K,A,RIF.31vsNoDrug_neu,RIFneu
+B,A,RIF1.3vsNoDrug_neu,RIFneu
+C,A,RIF5vsNoDrug_neu,RIFneu
+D,A,RIF20vsNoDrug_neu,RIFneu
+E,A,RIF80vsNoDrug_neu,RIFneu
+L,F,RIF.31vsNoDrug_acd,RIFacd
+G,F,RIF1.3vsNoDrug_acd,RIFacd
+H,F,RIF5vsNoDrug_acd,RIFacd
+I,F,RIF20vsNoDrug_acd,RIFacd
+J,F,RIF80vsNoDrug_acd,RIFacd
+F,A,NoDrug_acdvsneu,pHcompare1
+L,K,RIF.31_acdvsneu,pHcompare2
+G,B,RIF1.3_acdvsneu,pHcompare3
+H,C,RIF5_acdvsneu,pHcompare4
+I,D,RIF20_acdvsneu,pHcompare5
+J,E,RIF80_acdvsneu,pHcompare6

@@ -1,0 +1,13 @@
+﻿Formula,ExactMass,Mode,Label,RT_known,KeggID1,Name1,PZAvsAll.Quality,PZAvsAll.Notes,RT_PZAvsAll,Height.avg,RT_MyStds,RT_POAvsPZA,POAvsPZA_Mode,POAvsPZA_Quality,RT_VS_ID1,VS_Mode,RT_TH_ID1,TH_Mode,RT_Gates_ID1
+C3H7NO2,89.0477,POS,C00041 L-Alanine,444,C00041,L-Alanine,6,,7.67,142184,NA,8.74,POS,6,7.4,POS,4.6,POS,8
+C3H7NO2,89.0477,POS,C00099 beta-Alanine,512.52,C00099,beta-Alanine,6,,8.29,16517,8.542,9.42,POS,6,NA,,6,NEG POS,7.3
+C4H5NO3,115.0269,POS,C01596 Maleamate,,C01596,Maleamate,4,low lump but matches RT of POAvsPZA,6.51,936,NA,7.3,POS,5,NA,,,,NA
+C6H6N2O,122.048,POS,C00153 Nicotinamide,225.66,C00153,Nicotinamide,6,,3.75,3277783,3.761,3.83,POS,6,12.78,POS,4.05,NEG POS,4.05
+C5H5N3O,123.0433,POS,C01956 Pyrazinamide,83.1,C01956,Pyrazinamide,6,,1.39,3016132,1.385,NA,,NA,NA,,1.4,POS,NA
+C5H8O4,132.0423,POS,C00489 Glutarate,,C00489,Glutarate,3,flickers with low peak,2.09,1300,NA,NA,,NA,NA,,,UNK,NA
+C5H5N5,135.0545,POS,C00147 Adenine,497.22,C00147,Adenine,5,no other peaks,8,12045,8.287,NA,,NA,4.92,POS,4.4,POS,NA
+C6H13N3O3,175.0957,POS,C00327 L-Citrulline,569.82,C00327,L-Citrulline,5,Peak lowish and wide but sensible RT,9.36,3295,9.497,10.48,POS,6,9.04,POS,7.5,POS,8.76
+C7H14N2O3,174.1004,POS,C00437 N-Acetylornithine,534.6,C00437,N-Acetylornithine,6,peak not so clear but RT good relative to VS,9.08,2818,NA,10.26,POS,5,8.91,POS,,,8.6
+C11H12N2O2,204.0899,POS,C00078 L-Tryptophan,384.06,C00078,L-Tryptophan,5,Oddly intermittent peak. Still is bat ears at 75 ppm with intensity from 5-5.25 and 6-6.5 and a gap from 5.25 to 6,6.23,4709,6.401,NA,,NA,5.64,POS,5.11,NEG,NA
+C10H13N5O4,267.0968,POS,C00212 Adenosine,364.2,C00212,Adenosine,4,one low peak at later RT,6.07,4390,NA,NA,,NA,3.57,POS,3.3,POS,NA
+C17H30N2O12S,486.1519,POS,C06717 Mycothiol,295.2,C06717,Mycothiol,3,too low to take seriously,3.94,922,NA,NA,,NA,4.92,POS,5.2,POS,NA

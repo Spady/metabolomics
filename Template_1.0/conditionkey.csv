@@ -1,0 +1,13 @@
+﻿label,color,plotgroup,pH,RIFdose
+A,#8ba4b1,neulo,pH 6.6,0
+B,#6DC2AE,neulo,pH 6.6,1.25
+C,#41B6C4,neuhi,pH 6.6,5
+D,#2C7FB8,neuhi,pH 6.6,20
+E,#253494,neuhi,pH 6.6,80
+F,#b1988b,acdlo,pH 5.5,0
+G,#FEB24C,acdlo,pH 5.5,1.25
+H,#FD8D3C,acdhi,pH 5.5,5
+I,#F03B20,acdhi,pH 5.5,20
+J,#BD0026,acdhi,pH 5.5,80
+K,#93C678,neulo,pH 6.6,0.3125
+L,#EEC452,acdlo,pH 5.5,0.3125
